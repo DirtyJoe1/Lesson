@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="click_two">Click two</string>
+    <string name="click_there">Click there</string>
+    <string name="activity_three">Activity Three</string>
+</resources>
